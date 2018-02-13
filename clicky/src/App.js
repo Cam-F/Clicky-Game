@@ -13,6 +13,12 @@ class App extends Component {
     characters
   };
 
+  // shuffle = array => {
+  //   for (let i = 0; i < array.length; i++) {
+
+  //   }
+  // }
+
   render() {
     return (
       <Wrapper>
