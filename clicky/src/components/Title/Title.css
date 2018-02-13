@@ -1,6 +1,5 @@
 .titleBox {
-  background-size: 100%;
-  background-repeat: no-repeat;
+  background-image: url("/img/skulls.png");
   width: 100%;
   text-align: center;
   vertical-align: center;
