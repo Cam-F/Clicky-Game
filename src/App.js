@@ -29,7 +29,7 @@ class App extends Component {
     if (clickedChar[0].clicked) {
 
       curScore = 0;
-      message = "Nope";
+      message = "Woops! Start over.";
 
       // Reset
       for (let i = 0; i < characters.length; i++) {
@@ -44,7 +44,7 @@ class App extends Component {
 
       clickedChar[0].clicked = true;
       curScore++;
-      message = "Yup";
+      message = "Correct! Guess again.";
 
       //updating high score
       if (curScore > hiScore) {
@@ -89,7 +89,7 @@ class App extends Component {
         <Navpills>
           <ul className="nav nav-pills nav-justified">
             <li className="brand"><a href="/">Fortnite Clicky Game</a></li>
-            <li> Click any image to start! </li>
+            <li> {this.state.message} </li>
             <li> Current Score: {this.state.curScore} | High Score: {this.state.hiScore} </li>
           </ul>
         </Navpills>

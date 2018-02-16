@@ -1,60 +1,72 @@
 [
     {
+        "id": 1,
         "name": "Cuddle Team Leader",
         "image": "https://progameguides.com/wp-content/uploads/2018/02/fortnite-outfit-cuddle-team-leader.jpg",
         "clicked": false
     },
     {
+        "id": 2,
         "name": "Raptor",
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-raptor.jpg",
         "clicked": false
     },
     {
+        "id": 3,
         "name": "Funk Ops",
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-funk-ops.jpg",
         "clicked": false
     },
     {
+        "id": 4,
         "name": "Ghoul Trooper",
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-ghoul-trooper.jpg",
         "clicked": false
     },
     {
+        "id": 5,
         "name": "Yuletide Ranger",
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-yuletide-ranger.jpg",
         "clicked": false
     },
     {
+        "id": 6,
         "name": "Crackshot",
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-crackshot.jpg",
         "clicked": false
     },
     {
+        "id": 7,
         "name": "Red Nosed Raider",
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-red-nosed-raider-1.jpg",
         "clicked": false
     },
     {
+        "id": 8,
         "name": "Red Knight",
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-red-knight.jpg",
         "clicked": false
     },
     {
+        "id": 9,
         "name": "Shadow Ops",
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-shadow-ops.jpg",
         "clicked": false
     },
     {
+        "id": 10,
         "name": "Circuit Breaker",
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-circuit-breaker.jpg",
         "clicked": false
     },
     {
+        "id": 11,
         "name": "Bright Bomber",
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-brite-bomber.jpg",
         "clicked": false
     },
     {
+        "id": 12,
         "name": "Absolute Zero",
         "image": "https://progameguides.com/wp-content/uploads/2017/12/fortnite-outfit-absolute-zero-1.jpg",
         "clicked": false
